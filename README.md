@@ -18,3 +18,7 @@
 
 # MySQL_Task_sqlbolt - Exercise:7
 <img width="176" alt="image" src="https://github.com/Tharani-Kasiselvam/MySQL_Task_sqlbolt/assets/162134346/e9c0dd64-5a0e-4761-9a68-39bf56f49227">
+
+# MySQL_Task_sqlbolt - Exercise:8
+<img width="179" alt="image" src="https://github.com/Tharani-Kasiselvam/MySQL_Task_sqlbolt/assets/162134346/77eb7691-012f-4470-9096-809ad1d6c8d2">
+
