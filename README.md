@@ -52,4 +52,5 @@
 # MySQL_Task_sqlbolt - Exercise:18
 <img width="179" alt="image" src="https://github.com/Tharani-Kasiselvam/MySQL_Task_sqlbolt/assets/162134346/debb4e3d-8b74-4a83-a611-535561651152">
 
+# Completed ALL Tasks
 <img width="316" alt="image" src="https://github.com/Tharani-Kasiselvam/MySQL_Task_sqlbolt/assets/162134346/c7923a67-1d38-44bb-bfd7-606a342aa243">
