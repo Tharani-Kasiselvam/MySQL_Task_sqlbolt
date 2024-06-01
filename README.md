@@ -22,3 +22,13 @@
 # MySQL_Task_sqlbolt - Exercise:8
 <img width="179" alt="image" src="https://github.com/Tharani-Kasiselvam/MySQL_Task_sqlbolt/assets/162134346/77eb7691-012f-4470-9096-809ad1d6c8d2">
 
+# MySQL_Task_sqlbolt - Exercise:9
+<img width="176" alt="image" src="https://github.com/Tharani-Kasiselvam/MySQL_Task_sqlbolt/assets/162134346/c2bd1508-b66f-40c2-93da-4299175238f8">
+
+# MySQL_Task_sqlbolt - Exercise:10
+<img width="179" alt="image" src="https://github.com/Tharani-Kasiselvam/MySQL_Task_sqlbolt/assets/162134346/5454a988-a543-4046-aa11-8254f310a356">
+
+# MySQL_Task_sqlbolt - Exercise:11
+<img width="184" alt="image" src="https://github.com/Tharani-Kasiselvam/MySQL_Task_sqlbolt/assets/162134346/fa773849-755d-4a28-95a6-19b07daa3a16">
+
+
