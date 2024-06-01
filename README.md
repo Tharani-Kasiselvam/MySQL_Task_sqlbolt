@@ -31,4 +31,25 @@
 # MySQL_Task_sqlbolt - Exercise:11
 <img width="184" alt="image" src="https://github.com/Tharani-Kasiselvam/MySQL_Task_sqlbolt/assets/162134346/fa773849-755d-4a28-95a6-19b07daa3a16">
 
+# MySQL_Task_sqlbolt - Exercise:12
+<img width="181" alt="image" src="https://github.com/Tharani-Kasiselvam/MySQL_Task_sqlbolt/assets/162134346/19ae9b73-0ccb-4d38-a274-5e09cccbbabc">
 
+# MySQL_Task_sqlbolt - Exercise:13
+<img width="180" alt="image" src="https://github.com/Tharani-Kasiselvam/MySQL_Task_sqlbolt/assets/162134346/afd0d5bc-13cc-4e07-a164-97062b0063db">
+
+# MySQL_Task_sqlbolt - Exercise:14
+<img width="184" alt="image" src="https://github.com/Tharani-Kasiselvam/MySQL_Task_sqlbolt/assets/162134346/13b129b8-c91e-4513-bfbd-d3cd93b15819">
+
+# MySQL_Task_sqlbolt - Exercise:15
+<img width="185" alt="image" src="https://github.com/Tharani-Kasiselvam/MySQL_Task_sqlbolt/assets/162134346/cd556076-0cf4-4114-bc40-2c4290506e7b">
+
+# MySQL_Task_sqlbolt - Exercise:16
+<img width="177" alt="image" src="https://github.com/Tharani-Kasiselvam/MySQL_Task_sqlbolt/assets/162134346/b65d2e9f-b2f7-44e1-954f-7c227db2615a">
+
+# MySQL_Task_sqlbolt - Exercise:17
+<img width="182" alt="image" src="https://github.com/Tharani-Kasiselvam/MySQL_Task_sqlbolt/assets/162134346/b94d62d7-9909-46e7-a68f-65f06501ff1a">
+
+# MySQL_Task_sqlbolt - Exercise:18
+<img width="179" alt="image" src="https://github.com/Tharani-Kasiselvam/MySQL_Task_sqlbolt/assets/162134346/debb4e3d-8b74-4a83-a611-535561651152">
+
+<img width="316" alt="image" src="https://github.com/Tharani-Kasiselvam/MySQL_Task_sqlbolt/assets/162134346/c7923a67-1d38-44bb-bfd7-606a342aa243">
